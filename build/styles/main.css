@@ -63,6 +63,9 @@ header .profile-avatar {
 .social-links li:hover {
   transform: scale(1.2);
 }
+.social-links li i {
+  color: #551A8B;
+}
 .projects-list {
   margin-top: 3.2rem;
 }
